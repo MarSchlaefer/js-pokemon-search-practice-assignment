@@ -44,3 +44,11 @@ input:focus {
 .flip-image {
   color: #2d72fc;
 }
+
+.poke-box {
+  display: inline-grid;
+  flex-wrap: wrap;
+  justify-content: space-bewteen;
+  margin: 10px;
+  width: 250px;
+}
